@@ -3,3 +3,4 @@
 Índice das receitas:
 
 - Strogonoff de frango
+- Lasanha
